@@ -1,4 +1,4 @@
-## Hi, I'm Vel and I love development 👋
+👋
 
 <!--
 **Vel-Bermeo/Vel-Bermeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
